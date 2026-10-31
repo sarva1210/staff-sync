@@ -103,7 +103,7 @@ StaffSync/
 
 ```bash
 git clone https://github.com/sarva1210/staff-sync.git
-cd staffsync
+cd staff-sync
 ```
 
 ### 2. Install Dependencies
