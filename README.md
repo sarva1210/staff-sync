@@ -102,7 +102,7 @@ StaffSync/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/sarva1210/staffsync.git
+git clone https://github.com/sarva1210/staff-sync.git
 cd staffsync
 ```
 
