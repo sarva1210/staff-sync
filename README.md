@@ -159,13 +159,5 @@ Backend: `http://127.0.0.1:4000`
 - Audits
 
 ## Project Objective
-
 The main objective of StaffSync is to digitize and simplify organizational HR operations through a centralized platform.
-
-The application aims to improve employee management, attendance tracking, leave processing, internal communication, and team development.
-
-## Project Credits
-
-StaffSync is an authorized adaptation of the original StaffSync showcase by Abhigyan Dwivedi. Original project provenance and applicable third-party license terms are retained.
-
-Developed and customized for the StaffSync Human Resource Management System capstone project.
+The application aims to improve employee management, attendance tracking, leave processing, internal communication, and team development..
